@@ -1,0 +1,15 @@
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\bin\Debug\net7.0\Lesson01_C.exe
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\bin\Debug\net7.0\Lesson01_C.deps.json
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\bin\Debug\net7.0\Lesson01_C.runtimeconfig.json
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\bin\Debug\net7.0\Lesson01_C.dll
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\bin\Debug\net7.0\Lesson01_C.pdb
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.csproj.AssemblyReference.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.AssemblyInfoInputs.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.AssemblyInfo.cs
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.csproj.CoreCompileInputs.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.dll
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\refint\Lesson01_C.dll
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.pdb
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\Lesson01_C.genruntimeconfig.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson01_C\obj\Debug\net7.0\ref\Lesson01_C.dll
